@@ -79,4 +79,4 @@ __Author:__ <br>
 [Harry Dempsey](https://github.com/H-Dempsey) (Andrews lab and Foldi lab) <br>
 
 __Credits:__ <br>
-Leigh Walker, Xavier Maddern, Andrew Lawrence Meaghan Creed, Lex Kravitz <br>
+Leigh Walker, Simon Miller, Xavier Maddern, Andrew Lawrence Meaghan Creed, Lex Kravitz <br>
