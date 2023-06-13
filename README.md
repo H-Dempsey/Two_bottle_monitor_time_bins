@@ -4,7 +4,8 @@
 
 __Two Bottle Monitor__
 
-![image](https://github.com/H-Dempsey/Two_bottle_monitor_time_bins/assets/101311642/45877e65-1e08-4496-9733-2aff0cde704b)
+<p align="center">
+<img src="https://github.com/H-Dempsey/Two_bottle_monitor_time_bins/assets/101311642/45877e65-1e08-4496-9733-2aff0cde704b" width="400">
 
 The Two Bottle Monitor is an open source [automated mouse homecage two-bottle choice test device](https://hackaday.io/project/160388-automated-mouse-homecage-two-bottle-choice-test-v2).
 It was developed by Meaghan Creed, Lex Kravitz, Jibran Khokhar and Lizzy Godynyuk.
