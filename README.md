@@ -26,15 +26,21 @@ __Preview of the graphical user interfaces__
 __Input and output data__
 
 ![image](https://github.com/H-Dempsey/Two_bottle_monitor_time_bins/assets/101311642/01e446b1-b4fa-42ba-94d0-f48c039bba02)
-
-### Simple installation
+  
+### Simple GUI installation
 
 Download the executable file for PC and double click to open it (note that it will take a while to start up). <br>
 Unfortunately, this is not compatible with Mac. <br>
   
 [Download here](https://doi.org/10.6084/m9.figshare.23505447.v1) (will update this link).
 
-### Anaconda installation
+### Arduino device installation
+  
+Follow the instructions for building the sipper monitor and installing Arduino [here](https://hackaday.io/project/160388-automated-mouse-homecage-two-bottle-choice-test-v2).
+Use the latest libraries on that website, which can also be found [here](https://cdn.hackaday.io/files/1603886862040192/SipperLibraries102420.zip).
+Flash the C++ sipper codes in this repository onto your devices.
+  
+### Alternative GUI installation
 
 Install [Anaconda Navigator](https://www.anaconda.com/products/distribution). <br>
 Open Anaconda Prompt (on Mac open terminal and install X-Code when prompted). <br>
