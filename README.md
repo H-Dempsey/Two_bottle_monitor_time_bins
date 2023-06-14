@@ -13,7 +13,7 @@ It was developed by Meaghan Creed, Lex Kravitz, Jibran Khokhar and Lizzy Godynyu
 __Purpose__
 
 The CSV output from the these devices are in 1 min time bins. For the creation of custom time bin lengths, this repository:
-* Provides a slightly modified C++ Arduino code, so that the device can output timestamps of events, rather than time bins.
+* Provides a slightly modified C++ Arduino code (from the link above), so that the device can output timestamps of events, rather than time bins.
 * Provides a Python GUI which converts this output into a time binned file with custom bin lengths.
 * Can also perform group analysis for each of the varibles Left Count, Left Duration, Right Count and Right Duration. <br>
 
