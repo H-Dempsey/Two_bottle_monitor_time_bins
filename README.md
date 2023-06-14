@@ -62,7 +62,7 @@ Create a conda environment and install the dependencies.
 conda env create -n TBTB -f Dependencies.yaml
 ```
 
-### Anaconda usage
+To run the codes through Anaconda, first close everything.
 Open Anaconda Prompt (on Mac open terminal). <br>
 Change the directory to the place where the git clone was made.
 ```
