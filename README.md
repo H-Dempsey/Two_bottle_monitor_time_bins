@@ -36,8 +36,8 @@ Unfortunately, this is not compatible with Mac. <br>
 
 ### Arduino device installation
   
-Follow the instructions for building the sipper monitor and installing Arduino [here](https://hackaday.io/project/160388-automated-mouse-homecage-two-bottle-choice-test-v2).
-Use the latest libraries on that website, which can also be found [here](https://cdn.hackaday.io/files/1603886862040192/SipperLibraries102420.zip).
+Follow the instructions for building the sipper monitor and installing Arduino [here](https://hackaday.io/project/160388-automated-mouse-homecage-two-bottle-choice-test-v2). <br>
+Use the latest libraries on that website, which can also be found [here](https://cdn.hackaday.io/files/1603886862040192/SipperLibraries102420.zip). <br>
 Flash the C++ sipper codes in this repository onto your devices.
   
 ### Alternative GUI installation
