@@ -32,7 +32,7 @@ __Input and output data__
 Download the executable file for PC and double click to open it (note that it will take a while to start up). <br>
 Unfortunately, this is not compatible with Mac. <br>
   
-Download here (will update this link).
+[Download here](10.6084/m9.figshare.23505447) (will update this link).
 
 ### Installation
 
