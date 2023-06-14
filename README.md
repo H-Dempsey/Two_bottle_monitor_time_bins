@@ -34,7 +34,7 @@ Unfortunately, this is not compatible with Mac. <br>
   
 [Download here](https://doi.org/10.6084/m9.figshare.23505447.v1) (will update this link).
 
-### Installation
+### Anaconda installation
 
 Install [Anaconda Navigator](https://www.anaconda.com/products/distribution). <br>
 Open Anaconda Prompt (on Mac open terminal and install X-Code when prompted). <br>
@@ -56,7 +56,7 @@ Create a conda environment and install the dependencies.
 conda env create -n TBTB -f Dependencies.yaml
 ```
 
-### Usage
+### Anaconda usage
 Open Anaconda Prompt (on Mac open terminal). <br>
 Change the directory to the place where the git clone was made.
 ```
