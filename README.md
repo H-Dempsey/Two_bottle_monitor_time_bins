@@ -31,6 +31,7 @@ __Input and output data__
 
 Download the executable file for PC and double click to open it (note that it will take a while to start up). <br>
 Unfortunately, this is not compatible with Mac. <br>
+If you hover your cursor over text, help messages will appear, which can guide you through the GUI.
   
 [Download here](https://doi.org/10.6084/m9.figshare.23505447.v1) (will update this link).
 
