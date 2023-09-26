@@ -33,7 +33,7 @@ Download the executable file for PC and double click to open it (note that it wi
 Unfortunately, this is not compatible with Mac. <br>
 If you hover your cursor over text, help messages will appear, which can guide you through the GUI.
 
-[Download here](https://figshare.com/articles/software/Two_Bottle_Choice_Time_Bin_Analysis_GUI/23505447).
+[Download here](https://figshare.com/articles/software/Two_Bottle_Choice_Analysis_GUI/24196047)
 
 ### Arduino device installation
   
