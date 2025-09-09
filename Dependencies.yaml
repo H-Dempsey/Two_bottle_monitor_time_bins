@@ -7,9 +7,9 @@ dependencies:
   - PySimpleGUI
   - pip
   - pip:
-    - PySimpleGUI
     - tqdm
     - datetime
     - numpy
     - pandas
     - openpyxl
+
