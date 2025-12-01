@@ -26,14 +26,6 @@ __Preview of the graphical user interfaces__
 __Input and output data__
 
 ![image](https://github.com/H-Dempsey/Two_bottle_monitor_time_bins/assets/101311642/01e446b1-b4fa-42ba-94d0-f48c039bba02)
-  
-### Simple GUI installation
-
-Download the executable file for PC and double click to open it (note that it will take a while to start up). <br>
-Unfortunately, this is not compatible with Mac. <br>
-If you hover your cursor over text, help messages will appear, which can guide you through the GUI.
-
-[Download here](https://figshare.com/articles/software/Two_Bottle_Choice_Analysis_GUI/24196047)
 
 ### Arduino device installation
   
@@ -41,7 +33,7 @@ Follow the instructions for building the sipper monitor and installing Arduino [
 Use the latest libraries on that website, which can also be found [here](https://cdn.hackaday.io/files/1603886862040192/SipperLibraries102420.zip). <br>
 Flash the C++ sipper codes in this repository onto your devices.
   
-### Alternative GUI installation
+### GUI installation
 
 Install [Anaconda Navigator](https://www.anaconda.com/products/distribution). <br>
 Open Anaconda Prompt (on Mac open terminal and install X-Code when prompted). <br>
